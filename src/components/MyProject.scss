@@ -1,0 +1,19 @@
+.project-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.project-card{
+    margin-top: 20px;
+    width:250px;
+    height:450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-Shadow:  20px 20px 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+   
+}
